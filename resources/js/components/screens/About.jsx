@@ -28,9 +28,10 @@ const About = () => {
                 <>
                     <div className="mb-2">
                         a) The parents need to register by sending an email to
-                        sudek.boysclub@gmail.com and then fill in the
-                        registration form that will be sent by a representative
-                        of the Club Coordinators.
+                        sudek.boysclub@gmail.com or contacting one of the club
+                        coordinators and then fill in the registration form that
+                        will be sent by a representative of the Club
+                        Coordinators.
                     </div>
                     <div>
                         b) The boy attends activities for at least one Saturday,

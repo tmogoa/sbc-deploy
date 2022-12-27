@@ -53,7 +53,7 @@ const Navbar = () => {
                         Activities
                     </div>
                 </Link>
-                <a href="https://forms.gle/gvqoWmMDxFQEQYf18" target="_blank">
+                <a href="https://bit.ly/sbc_2023" target="_blank">
                     <div className="px-4 rounded-3xl py-2 text-center hover:bg-orange-400 active:bg-orange-400 cursor-pointer">
                         Register
                     </div>
