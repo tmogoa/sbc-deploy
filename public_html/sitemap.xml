@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+   <url>
+
+      <loc>http://sbc.or.ke/</loc>
+
+      <image:image>
+        <image:loc>http://sbc.or.ke/images/logo.webp?72535e53b038d1c033e86bf055e939eb</image:loc>
+      </image:image>
+
+      <lastmod>2022-07-18</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://sbc.or.ke/activities</loc>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+
+    <url>
+
+      <loc>http://sbc.or.ke/boys-corner</loc>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://sbc.or.ke/about</loc>
+
+      <lastmod>2022-07-18</lastmod>
+
+      <priority>0.7</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://sbc.or.ke/contact-us</loc>
+
+      <lastmod>2022-07-18</lastmod>
+
+      <priority>0.7</priority>
+
+   </url>
+
+</urlset>

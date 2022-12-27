@@ -1,0 +1,5 @@
+Options -Indexes
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.sbc.or.ke$ [NC]
+RewriteRule ^(.*)$ http://sbc.or.ke/awstats/$1 [R=301,L]

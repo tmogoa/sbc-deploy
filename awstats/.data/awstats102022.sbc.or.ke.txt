@@ -1,0 +1,502 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202210 will be lost/reset.
+# Last config file used to build this data file was /home/yjzrapws/domains/sbc.or.ke/awstats/.data/awstats.sbc.or.ke.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2096                
+POS_TIME 2761                
+POS_VISITOR 6767                
+POS_DAY 9525                
+POS_DOMAIN 3525                
+POS_LOGIN 3756                
+POS_ROBOT 3911                
+POS_WORMS 4303                
+POS_EMAILSENDER 4434                
+POS_EMAILRECEIVER 4577                
+POS_SESSION 9859                
+POS_SIDER 10016               
+POS_FILETYPES 4712                
+POS_DOWNLOADS 4900                
+POS_OS 4948                
+POS_BROWSER 5088                
+POS_SCREENSIZE 5254                
+POS_UNKNOWNREFERER 5328                
+POS_UNKNOWNREFERERBROWSER 5415                
+POS_ORIGIN 5497                
+POS_SEREFERRALS 5633                
+POS_PAGEREFS 5817                
+POS_SEARCHWORDS 5994                
+POS_KEYWORDS 6146                
+POS_MISC 2425                
+POS_ERRORS 6205                
+POS_CLUSTER 3612                
+POS_SIDER_403 6294                
+POS_SIDER_400 6376                
+POS_SIDER_404 6458                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20221012004529 96 21375 8883952148031
+FirstTime 0
+LastTime 20221011201520
+LastUpdate 20221012005740 96 0 96 0 0
+TotalVisits 91                  
+TotalUnique 68                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 68                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 30 879128 21 21 11172
+1 17 40 1098910 15 15 2916
+2 12 30 879128 13 13 3338
+3 15 39 1098910 12 14 3897
+4 13 32 879128 11 11 1992
+5 9 23 659346 17 18 11549
+6 7 17 439564 8 8 2340
+7 9 23 659346 18 21 445795
+8 7 16 439564 11 11 6273
+9 6 15 439564 16 17 12333
+10 11 37 1204355 6 6 1560
+11 21 52 1318696 15 15 3900
+12 16 39 1098910 18 19 5404
+13 6 15 439564 11 13 7395
+14 18 41 1098910 26 31 69351
+15 10 23 659346 32 44 1584432
+16 3 7 219782 10 12 226407
+17 3 7 219782 11 14 15596
+18 3 10 219782 1 2 728
+19 9 21 659346 13 13 4884
+20 15 38 1098910 15 17 8534
+21 6 15 219782 7 8 4544
+22 18 55 659978 19 22 231382
+23 10 23 659346 14 15 5120
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 257 648 17249077
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bingbot/ 134 80324 20221012004529 9
+Go\-http\-client/ 71 0 20221011201514 0
+Googlebot/ 62 954464 20221011201346 5
+bingpreview 14 1537203 20221008152206 0
+Googlebot\-Image/ 3 72633 20221011153729 0
+netcraft 3 7971 20221008091631 0
+unknown 1 92 20221009183455 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 78 412008 0 0
+php 90 50003 0 0
+webp 185 493122 0 0
+jpg 47 45488 0 0
+js 79 16244499 0 0
+Unknown 167 3957 0 0
+gif 2 0 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+win10 72 24
+macosx14 544 216
+linux 11 4
+androidmarshmallow 11 3
+win7 10 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+chrome56.0.2924.76 10 10
+chrome97.0.4692.99 544 216
+chrome104.0.0.0 11 3
+chrome102.0.0.0 11 3
+chrome105.0.0.0 72 25
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 73 74
+From1 0 0
+From2 5 5
+From3 1 1
+From4 178 568
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+search_yahoo_com 3 3
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://www.overleaf.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+301 90 17151
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 68
+41.80.15.225 11 34 219782 20221008222513
+18.237.197.249 9 23 659346 20221009093642
+35.89.108.225 9 23 659346 20221009205334
+34.221.191.25 9 22 659346 20221010205954
+54.190.45.184 7 16 439564 20221010143719
+105.160.82.249 7 16 0 20221002144751
+34.221.98.246 6 16 439564 20221004115903
+54.187.238.118 6 15 439564 20221008012501
+34.215.133.107 6 15 439564 20221007142930
+35.91.226.91 6 15 439564 20221006165331
+52.34.13.155 3 8 219782 20221004032511
+54.201.84.130 3 8 219782 20221005145214
+197.155.95.6 3 11 764791 20221002104519
+34.215.104.161 3 8 219782 20221010032352
+35.164.78.138 3 7 219782 20221008004429
+18.237.36.162 3 8 219782 20221007044634
+35.90.176.48 3 7 219782 20221001174743
+34.216.86.244 3 7 219782 20221007000013
+35.91.92.255 3 7 219782 20221005110942
+34.220.40.6 3 7 219782 20221005010905
+35.87.121.225 3 8 219782 20221002064648
+54.69.71.81 3 7 219782 20221003105809
+34.221.188.197 3 8 219782 20221003224506
+34.220.167.137 3 8 219782 20221011201520
+34.222.167.119 3 7 219782 20221008232431
+18.236.160.181 3 7 219782 20221009153432
+34.219.204.195 3 8 219782 20221007050333
+35.90.149.186 4 8 219782 20221008042355
+34.220.82.59 6 16 439564 20221010042034
+35.91.246.90 3 8 219782 20221010124548
+35.166.161.249 3 8 219782 20221002074722
+199.244.88.227 1 1 632 20221010221814
+34.220.28.58 3 8 219782 20221009225227
+34.208.3.249 4 8 219782 20221009055105
+54.188.55.116 3 8 219782 20221004114116
+35.88.255.243 3 7 219782 20221002114716
+156.0.233.51 3 10 219782 20221009183457
+197.232.33.9 3 11 219786 20221003110704
+35.91.50.31 3 8 219782 20221010011106
+54.149.229.211 3 8 219782 20221006223025
+35.88.156.89 3 7 219782 20221004002815
+54.212.202.21 6 15 439564 20221005202120
+18.237.111.198 3 8 219782 20221004023136
+54.191.40.34 3 7 219782 20221011025126
+35.89.242.103 3 8 219782 20221001233145
+35.92.20.187 1 1 0 20221011141049
+34.218.58.188 3 8 219782 20221007123332
+35.164.121.27 3 8 219782 20221011005047
+35.91.158.5 6 15 439564 20221008065105
+54.149.158.26 3 8 219782 20221003031820
+52.13.12.52 3 7 219782 20221002231036
+34.209.246.113 3 8 219782 20221006034402
+54.202.157.4 3 7 219782 20221001203417
+41.80.74.119 3 11 0 20221009224144
+35.91.27.204 6 15 439564 20221011141052
+54.212.8.86 3 7 219782 20221001121703
+54.190.135.249 3 7 219782 20221011193711
+35.91.82.169 3 7 219782 20221009081627
+35.88.188.10 5 10 219782 20221010124545
+34.211.148.199 3 8 219782 20221005092848
+34.220.134.5 3 7 219782 20221003151505
+35.89.115.162 3 7 219782 20221003131933
+35.92.33.78 3 8 219782 20221010053216
+35.88.84.17 3 8 219782 20221006121920
+54.212.26.32 1 1 0 20221006014157
+52.40.39.149 1 1 0 20221001155858
+34.212.145.153 4 8 219782 20221011190535
+52.42.169.93 1 1 0 20221007044631
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20221001 22 52 1538474 8
+20221002 35 90 2523047 13
+20221003 24 63 1758260 8
+20221004 22 56 1538474 8
+20221005 22 55 1538474 8
+20221006 16 40 1098910 6
+20221007 19 46 1318692 7
+20221008 27 71 1318692 7
+20221009 28 73 1758256 10
+20221010 23 57 1539106 9
+20221011 19 45 1318692 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 90
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 165
+/ 90 50003 89 11
+/api/blogposts 4 0 0 1
+/api/threeactivitiespast/2022-10-03%2023:31:36 1 0 0 1
+/api/threeactivitiespast/2022-10-09%2005:16:27 1 0 0 0
+/api/threeactivitiesfuture/2022-10-06%2013:53:31 1 0 0 0
+/api/threeactivitiespast/2022-10-09%2019:52:27 1 0 0 1
+/api/threeactivitiesfuture/2022-10-02%2020:10:36 1 0 0 0
+/api/threeactivitiesfuture/2022-10-10%2001:20:34 1 0 0 0
+/api/threeactivitiesfuture/2022-10-03%2007:58:08 1 0 0 0
+/api/threeactivitiesfuture/2022-10-04%2000:25:10 1 0 0 0
+/api/threeactivitiespast/2022-10-04%2022:09:05 1 0 0 1
+/api/threeactivitiespast/2022-10-10%2002:32:16 1 0 0 1
+/api/threeactivitiesfuture/2022-10-09%2012:34:32 1 0 0 0
+/api/threeactivitiespast/2022-10-08%2021:51:28 1 0 0 0
+/api/threeactivitiesfuture/2022-10-08%2003:51:04 1 0 0 0
+/api/threeactivitiesfuture/2022-10-07%2021:44:29 1 0 0 0
+/api/threeactivitiesfuture/2022-10-04%2008:41:16 1 0 0 0
+/api/threeactivitiesfuture/2022-10-04%2001:17:10 1 0 0 0
+/api/threeactivitiesfuture/2022-10-01%2009:34:40 1 0 0 0
+/api/blogposts/1 1 0 0 0
+/api/threeactivitiespast/2022-10-10%2017:59:54 1 0 0 1
+/api/threeactivitiespast/2022-10-05%2008:09:42 1 0 0 1
+/api/threeactivitiespast/2022-10-08%2020:24:31 1 0 0 0
+/api/threeactivitiespast/2022-10-10%2023:51:26 1 0 0 1
+/api/threeactivitiespast/2022-10-02%2003:46:48 1 0 0 1
+/api/threeactivitiesfuture/2022-10-03%2019:45:06 1 0 0 0
+/api/threeactivitiespast/2022-10-04%2001:17:10 1 0 0 1
+/api/threeactivitiesfuture/2022-10-10%2002:32:16 1 0 0 0
+/api/threeactivitiesfuture/2022-10-09%2017:53:34 1 0 0 0
+/api/threeactivitiespast/2022-10-10%2011:37:18 1 0 0 1
+/api/threeactivitiespast/2022-10-11%2016:05:35 1 0 0 1
+/api/threeactivitiesfuture/2022-10-05%2017:21:20 1 0 0 1
+/api/threeactivitiespast/2022-10-04%2008:41:16 1 0 0 1
+/api/threeactivitiespast/2022-10-06%2009:19:20 1 0 0 1
+/api/threeactivitiespast/2022-10-03%2007:33:36 1 0 0 1
+/api/threeactivitiespast/2022-10-03%2011:06:50 1 0 0 1
+/api/threeactivitiespast/2022-10-07%2002:03:33 1 0 0 1
+/api/threeactivitiespast/2022-10-07%2021:44:29 1 0 0 1
+/api/threeactivitiesfuture/2022-10-07%2022:25:01 1 0 0 0
+/api/threeactivitiesfuture/2022-10-11%2016:37:11 1 0 0 0
+/api/threeactivitiesfuture/2022-10-09%2022:11:06 1 0 0 1
+/api/threeactivitiesfuture/2022-10-01%2012:59:01 1 0 0 1
+/api/threeactivitiespast/2022-10-10%2021:50:47 1 0 0 0
+/api/threeactivitiesfuture/2022-10-04%2022:09:05 1 0 0 0
+/api/threeactivitiespast/2022-10-01%2012:59:01 1 0 0 0
+/api/threeactivitiesfuture/2022-10-08%2020:24:31 1 0 0 1
+/api/threeactivitiespast/2022-10-01%2014:47:43 1 0 0 1
+/api/threeactivitiespast/2022-10-09%2002:51:04 1 0 0 1
+/api/threeactivitiesfuture/2022-10-02%2008:47:16 1 0 0 0
+/api/threeactivitiesfuture/2022-10-02%2010:42:30 1 0 0 0
+/api/threeactivitiesfuture/2022-10-09%2018:35:44 1 0 0 0
+/api/threeactivitiesfuture/2022-10-09%2019:52:27 1 0 0 0
+/api/threeactivitiespast/2022-10-05%2011:03:11 1 0 0 1
+/api/threeactivitiesfuture/2022-10-09%2022:41:44 1 0 0 0
+/api/threeactivitiespast/2022-10-03%2004:50:57 1 0 0 1
+/api/threeactivitiespast/2022-10-01%2009:34:40 1 0 0 1
+/api/threeactivitiespast/2022-10-10%2001:20:34 1 0 0 1
+/api/threeactivitiespast/2022-10-07%2001:46:34 1 0 0 1
+/api/threeactivitiesfuture/2022-10-07%2002:03:33 1 0 0 0
+/api/threeactivitiesfuture/2022-10-05%2011:52:14 1 0 0 1
+/api/threeactivitiesfuture/2022-10-09%2005:16:27 1 0 0 1
+/api/threeactivitiesfuture/2022-10-10%2011:37:18 1 0 0 0
+/api/threeactivitiespast/2022-10-03%2021:28:15 1 0 0 1
+/api/threeactivitiespast/2022-10-05%2004:12:58 1 0 0 0
+/api/threeactivitiespast/2022-10-11%2017:15:20 1 0 0 1
+/api/threeactivitiesfuture/2022-10-01%2020:31:45 1 0 0 0
+/api/threeactivitiespast/2022-10-02%2008:47:16 1 0 0 1
+/api/threeactivitiespast/2022-10-03%2010:19:33 1 0 0 1
+/api/threeactivitiesfuture/2022-10-02%2005:34:37 1 0 0 1
+/api/threeactivitiespast/2022-10-01%2009:17:02 1 0 0 1
+/api/threeactivitiespast/2022-10-07%2016:07:18 1 0 0 1
+/api/threeactivitiespast/2022-10-03%2012:15:05 1 0 0 1
+/api/threeactivitiespast/2022-10-04%2000:25:10 1 0 0 1
+/api/threeactivitiesfuture/2022-10-03%2012:15:05 1 0 0 0
+/api/threeactivitiesfuture/2022-10-01%2014:47:43 1 0 0 0
+/api/threeactivitiespast/2022-10-08%2021:55:59 1 0 0 0
+/api/threeactivitiesfuture/2022-10-03%2011:06:50 1 0 0 0
+/api/threeactivitiesfuture/2022-10-10%2000:23:51 1 0 0 0
+/api/threeactivitiespast/2022-10-05%2006:28:48 1 0 0 1
+/api/threeactivitiesfuture/2022-10-10%2017:59:54 1 0 0 0
+/api/threeactivitiesfuture/2022-10-07%2011:29:30 1 0 0 0
+/api/threeactivitiespast/2022-10-02%2011:53:30 1 0 0 1
+/api/threeactivitiesfuture/2022-10-09%2002:51:04 1 0 0 0
+/api/threeactivitiespast/2022-10-08%2003:51:04 1 0 0 1
+/api/threeactivitiespast/2022-10-09%2022:11:06 1 0 0 0
+/api/threeactivitiespast/2022-10-04%2008:59:33 1 0 0 1
+/api/threeactivitiesfuture/2022-10-06%2000:44:02 1 0 0 0
+/api/threeactivitiesfuture/2022-10-11%2011:10:52 1 0 0 0
+/api/threeactivitiesfuture/2022-10-07%2001:46:34 1 0 0 0
+/api/threeactivitiespast/2022-10-02%2005:34:37 1 0 0 0
+/api/threeactivitiesfuture/2022-10-02%2010:45:11 1 0 1 0
+/api/threeactivitiespast/2022-10-02%2010:45:11 1 0 0 1
+/api/threeactivitiesfuture/2022-10-03%2023:31:36 1 0 0 0
+/api/threeactivitiespast/2022-10-11%2016:37:11 1 0 0 1
+/api/threeactivitiesfuture/2022-10-11%2016:05:35 1 0 0 0
+/api/threeactivitiesfuture/2022-10-05%2022:42:01 1 0 0 0
+/api/threeactivitiesfuture/2022-10-05%2004:12:58 1 0 0 1
+/api/threeactivitiesfuture/2022-10-03%2007:33:36 1 0 0 0
+/api/threeactivitiesfuture/2022-10-08%2021:51:28 1 0 0 0
+/api/threeactivitiesfuture/2022-10-03%2004:50:57 1 0 0 0
+/api/threeactivitiesfuture/2022-10-08%2023:06:35 1 0 0 0
+/api/threeactivitiesfuture/2022-10-06%2021:00:13 1 0 0 0
+/api/threeactivitiespast/2022-10-10%2009:45:48 1 0 0 0
+/api/threeactivitiesfuture/2022-10-02%2011:53:30 1 0 0 0
+/api/threeactivitiespast/2022-10-03%2000:18:20 1 0 0 1
+/api/threeactivitiespast/2022-10-01%2000:05:17 1 0 0 1
+/api/threeactivitiesfuture/2022-10-02%2010:45:09 1 1662 0 1
+/api/threeactivitiespast/2022-10-03%2019:45:06 1 0 0 1
+/api/threeactivitiespast/2022-10-01%2022:34:46 1 0 0 1
+/api/threeactivitiesfuture/2022-10-08%2001:23:55 1 0 0 0
+/api/threeactivitiespast/2022-10-07%2011:29:30 1 0 0 1
+/api/threeactivitiespast/2022-10-09%2012:34:32 1 0 0 1
+/api/threeactivitiespast/2022-10-04%2008:59:03 1 0 0 0
+/api/threeactivitiespast/2022-10-02%2010:42:30 1 0 0 1
+/api/threeactivitiesfuture/2022-10-06%2009:19:20 1 0 0 0
+/api/threeactivitiespast/2022-10-09%2022:41:44 1 0 0 1
+/api/threeactivitiespast/2022-10-10%2000:23:51 1 0 0 1
+/api/threeactivitiesfuture/2022-10-01%2022:34:46 1 0 0 0
+/api/threeactivitiesfuture/2022-10-01%2017:34:17 1 0 0 0
+/api/threeactivitiesfuture/2022-10-06%2019:30:25 1 0 0 0
+/api/threeactivitiesfuture/2022-10-10%2021:50:47 1 0 0 1
+/api/threeactivitiespast/2022-10-06%2019:30:25 1 0 0 1
+/api/threeactivitiesfuture/2022-10-11%2017:15:20 1 0 0 0
+/api/threeactivitiesfuture/2022-10-02%2004:47:22 1 0 0 0
+/api/threeactivitiespast/2022-10-08%2001:23:55 1 0 0 1
+/api/threeactivitiesfuture/2022-10-03%2000:18:20 1 0 0 0
+/api/threeactivitiesfuture/2022-10-03%2010:19:33 1 0 0 0
+/api/threeactivitiespast/2022-10-05%2011:52:14 1 0 0 0
+/api/threeactivitiesfuture/2022-10-09%2006:36:42 1 0 0 0
+/api/threeactivitiespast/2022-10-02%2004:47:22 1 0 0 1
+/api/threeactivitiesfuture/2022-10-01%2023:58:55 1 0 0 1
+/api/threeactivitiesfuture/2022-10-07%2016:07:18 1 0 0 0
+/api/threeactivitiesfuture/2022-10-02%2003:46:48 1 0 0 0
+/api/threeactivitiespast/2022-10-06%2013:53:31 1 0 0 1
+/api/threeactivitiespast/2022-10-07%2009:33:32 1 0 0 1
+/api/threeactivitiespast/2022-10-02%2010:45:09 1 2295 0 0
+/api/threeactivitiesfuture/2022-10-04%2008:59:33 1 0 0 0
+/api/threeactivitiespast/2022-10-03%2007:58:08 1 0 0 1
+/api/threeactivitiespast/2022-10-01%2023:58:55 1 0 0 0
+/api/threeactivitiespast/2022-10-07%2022:25:01 1 0 0 1
+/api/threeactivitiesfuture/2022-10-05%2006:28:48 1 0 0 0
+/api/threeactivitiesfuture/2022-10-08%2021:55:59 1 0 0 0
+/api/threeactivitiespast/2022-10-05%2022:42:01 1 0 0 1
+/api/threeactivitiespast/2022-10-09%2018:35:44 1 0 0 1
+/api/threeactivitiespast/2022-10-02%2020:10:36 1 0 0 1
+/api/threeactivitiespast/2022-10-11%2011:10:52 1 0 0 1
+/api/threeactivitiespast/2022-10-01%2017:34:17 1 0 0 1
+/api/threeactivitiespast/2022-10-09%2006:36:42 1 0 0 1
+/api/threeactivitiesfuture/2022-10-07%2009:33:32 1 0 0 0
+/api/threeactivitiesfuture/2022-10-05%2008:09:42 1 0 0 0
+/api/threeactivitiesfuture/2022-10-01%2009:17:02 1 0 0 0
+/api/threeactivitiespast/2022-10-06%2000:44:02 1 0 0 1
+/api/threeactivitiespast/2022-10-08%2023:06:35 1 0 0 1
+/api/threeactivitiespast/2022-10-01%2020:31:45 1 0 0 1
+/api/threeactivitiespast/2022-10-06%2021:00:13 1 0 0 1
+/api/threeactivitiesfuture/2022-10-10%2023:51:26 1 0 0 0
+/api/threeactivitiesfuture/2022-10-01%2000:05:17 1 0 0 0
+/api/threeactivitiesfuture/2022-10-03%2021:28:15 1 0 0 0
+/api/threeactivitiespast/2022-10-09%2017:53:34 1 0 0 1
+/api/threeactivitiesfuture/2022-10-10%2009:45:48 1 0 0 1
+/api/threeactivitiespast/2022-10-05%2017:21:20 1 0 0 0
+/api/threeactivitiesfuture/2022-10-04%2008:59:03 1 0 0 1
+/api/threeactivitiesfuture/2022-10-02%2014:47:51 1 0 1 0
+/api/threeactivitiespast/2022-10-02%2014:47:51 1 0 0 1
+/api/threeactivitiesfuture/2022-10-05%2011:03:11 1 0 0 0
+END_SIDER
